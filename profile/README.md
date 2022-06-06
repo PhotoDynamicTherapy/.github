@@ -24,6 +24,7 @@ https://github.com/PhotoDynamicTherapy/PDT
   <li>Geraldo Picheth (1)</li>
   <li>Fabiane Gomes de Moraes Rego (1)</li>
   <li>Ademir Luiz do Prado (1, 2)</li>
+  <li>Gustavo Barbosa Pires (1)</li>
   <li>Gustavo da Paz (1)</li>
   <li>Ingrid Fatima Zattoni (1)</li>
   <li>Isadora Zanzarini (1)</li>
