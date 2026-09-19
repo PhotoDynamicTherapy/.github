@@ -4,11 +4,12 @@
   <p align="center"><h1>An In-House-Built and Light-Emitting-Diode-Based Photodynamic Therapy Device for Enhancing Verteporfin Cytotoxicity in a 2D Cell Culture Model
   <br>
   <img width="30" height="30" src=https://galoa.com.br/wp-content/uploads/2022/05/doi-med.png> https://dx.doi.org/10.3791/64391</b>
-  <br><br>
-    <p align="center">
-  <img width="200" height="150" src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg/279px-Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg.png>
+  <br>
+<p align="center">
+  <img width="170" height="125" src=https://github.com/COVID-19-Severity/DataSet/blob/main/IFPR.svg>
   <img width="200" height="150" src=http://www.ufpr.br/portalufpr/wp-content/uploads/2015/11/ufpr_25.jpg>
   <br>
+</p>
      
 # PDT
 PhotoDynamic Therapy Equipment Repository
